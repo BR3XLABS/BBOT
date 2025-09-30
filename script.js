@@ -1,3 +1,4 @@
+//mirror of BBOT, goguardian sucks bad
 //had to add grabify to stop the skids in pandas stream
 //doxx yourself here: https://grabify.link/3N7WOE
 //window.location.href="https://grabify.link/3N7WOE";
